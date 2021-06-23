@@ -1,0 +1,6 @@
+-------------------------------------------------------------Weather Stats for - HARIDWAR  || 23 Jun 2021 | 07:56:46 PM-------------------------------------------------------------Current temperature is: 31.91 deg C-------------------------------------------------------------
+Weather Stats for - HARIDWAR  || 23 Jun 2021 | 08:18:57 PM
+-------------------------------------------------------------
+Current weather desc  : clear sky
+Current Humidity      : 38 %
+Current wind speed    : 2.23 kmph
